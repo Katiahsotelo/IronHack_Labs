@@ -1,0 +1,251 @@
+Países/Colonias,Capital,Región,Subregión,Latitud,Longitud,Población,KM^2,Independiente,Gini
+Afghanistan,Kabul,Asia,Southern Asia,33.0,65.0,40218234,652230.0,True,
+Åland Islands,Mariehamn,Europe,Northern Europe,60.116667,19.9,28875,1580.0,False,
+Albania,Tirana,Europe,Southern Europe,41.0,20.0,2837743,28748.0,True,33.2
+Algeria,Algiers,Africa,Northern Africa,28.0,3.0,44700000,2381741.0,True,27.6
+American Samoa,Pago Pago,Oceania,Polynesia,-14.33333333,-170.0,55197,199.0,False,
+Andorra,Andorra la Vella,Europe,Southern Europe,42.5,1.5,77265,468.0,True,
+Angola,Luanda,Africa,Middle Africa,-12.5,18.5,32866268,1246700.0,True,51.3
+Anguilla,The Valley,Americas,Caribbean,18.25,-63.16666666,13452,91.0,False,
+Antarctica,,Polar,Antarctica,-74.65,4.48,1000,14000000.0,False,
+Antigua and Barbuda,Saint John's,Americas,Caribbean,17.05,-61.8,97928,442.0,True,
+Argentina,Buenos Aires,Americas,South America,-34.0,-64.0,45376763,2780400.0,True,42.9
+Armenia,Yerevan,Asia,Western Asia,40.0,45.0,2963234,29743.0,True,29.9
+Aruba,Oranjestad,Americas,Caribbean,12.5,-69.96666666,106766,180.0,True,
+Australia,Canberra,Oceania,Australia and New Zealand,-27.0,133.0,25687041,7692024.0,True,34.4
+Austria,Vienna,Europe,Central Europe,47.33333333,13.33333333,8917205,83871.0,True,30.8
+Azerbaijan,Baku,Asia,Western Asia,40.5,47.5,10110116,86600.0,True,26.6
+Bahamas,Nassau,Americas,Caribbean,24.25,-76.0,393248,13943.0,True,
+Bahrain,Manama,Asia,Western Asia,26.0,50.55,1701583,765.0,True,
+Bangladesh,Dhaka,Asia,Southern Asia,24.0,90.0,164689383,147570.0,True,32.4
+Barbados,Bridgetown,Americas,Caribbean,13.16666666,-59.53333333,287371,430.0,True,
+Belarus,Minsk,Europe,Eastern Europe,53.0,28.0,9398861,207600.0,True,25.3
+Belgium,Brussels,Europe,Western Europe,50.83333333,4.0,11555997,30528.0,True,27.2
+Belize,Belmopan,Americas,Central America,17.25,-88.75,397621,22966.0,True,53.3
+Benin,Porto-Novo,Africa,Western Africa,9.5,2.25,12123198,112622.0,True,47.8
+Bermuda,Hamilton,Americas,Northern America,32.33333333,-64.75,63903,54.0,False,
+Bhutan,Thimphu,Asia,Southern Asia,27.5,90.5,771612,38394.0,True,37.4
+Bolivia (Plurinational State of),Sucre,Americas,South America,-17.0,-65.0,11673029,1098581.0,True,41.6
+"Bonaire, Sint Eustatius and Saba",Kralendijk,Americas,Caribbean,12.15,-68.266667,17408,294.0,True,
+Bosnia and Herzegovina,Sarajevo,Europe,Southern Europe,44.0,18.0,3280815,51209.0,True,33.0
+Botswana,Gaborone,Africa,Southern Africa,-22.0,24.0,2351625,582000.0,True,53.3
+Bouvet Island,,Antarctic Ocean,South Antarctic Ocean,-54.43333333,3.4,0,49.0,False,
+Brazil,Brasília,Americas,South America,-10.0,-55.0,212559409,8515767.0,True,53.4
+British Indian Ocean Territory,Diego Garcia,Africa,Eastern Africa,-6.0,71.5,3000,60.0,True,
+United States Minor Outlying Islands,,Americas,Northern America,19.17,166.37,300,34.2,False,
+Virgin Islands (British),Road Town,Americas,Caribbean,18.431383,-64.62305,30237,151.0,False,
+Virgin Islands (U.S.),Charlotte Amalie,Americas,Caribbean,18.34,-64.93,106290,346.36,False,
+Brunei Darussalam,Bandar Seri Begawan,Asia,South-Eastern Asia,4.5,114.66666666,437483,5765.0,True,
+Bulgaria,Sofia,Europe,Eastern Europe,43.0,25.0,6927288,110879.0,True,41.3
+Burkina Faso,Ouagadougou,Africa,Western Africa,13.0,-2.0,20903278,272967.0,True,35.3
+Burundi,Gitega,Africa,Eastern Africa,-3.5,30.0,11890781,27834.0,True,38.6
+Cambodia,Phnom Penh,Asia,South-Eastern Asia,13.0,105.0,16718971,181035.0,True,
+Cameroon,Yaoundé,Africa,Middle Africa,6.0,12.0,26545864,475442.0,True,46.6
+Canada,Ottawa,Americas,Northern America,60.0,-95.0,38005238,9984670.0,True,33.3
+Cabo Verde,Praia,Africa,Western Africa,16.0,-24.0,555988,4033.0,True,42.4
+Cayman Islands,George Town,Americas,Caribbean,19.5,-80.5,65720,264.0,False,
+Central African Republic,Bangui,Africa,Middle Africa,7.0,21.0,4829764,622984.0,True,56.2
+Chad,N'Djamena,Africa,Middle Africa,15.0,19.0,16425859,1284000.0,True,43.3
+Chile,Santiago,Americas,South America,-30.0,-71.0,19116209,756102.0,True,44.4
+China,Beijing,Asia,Eastern Asia,35.0,105.0,1402112000,9640011.0,True,38.5
+Christmas Island,Flying Fish Cove,Oceania,Australia and New Zealand,-10.5,105.66666666,2072,135.0,False,
+Cocos (Keeling) Islands,West Island,Oceania,Australia and New Zealand,-12.5,96.83333333,550,14.0,False,
+Colombia,Bogotá,Americas,South America,4.0,-72.0,50882884,1141748.0,True,51.3
+Comoros,Moroni,Africa,Eastern Africa,-12.16666666,44.25,869595,1862.0,True,45.3
+Congo,Brazzaville,Africa,Middle Africa,-1.0,15.0,5518092,342000.0,True,48.9
+Congo (Democratic Republic of the),Kinshasa,Africa,Middle Africa,0.0,25.0,89561404,2344858.0,True,42.1
+Cook Islands,Avarua,Oceania,Polynesia,-21.23333333,-159.76666666,18100,236.0,True,
+Costa Rica,San José,Americas,Central America,10.0,-84.0,5094114,51100.0,True,48.2
+Croatia,Zagreb,Europe,Southern Europe,45.16666666,15.5,4047200,56594.0,True,29.7
+Cuba,Havana,Americas,Caribbean,21.5,-80.0,11326616,109884.0,True,
+Curaçao,Willemstad,Americas,Caribbean,12.116667,-68.933333,155014,444.0,False,
+Cyprus,Nicosia,Europe,Southern Europe,35.0,33.0,1207361,9251.0,True,32.7
+Czech Republic,Prague,Europe,Central Europe,49.75,15.5,10698896,78865.0,True,25.0
+Denmark,Copenhagen,Europe,Northern Europe,56.0,10.0,5831404,43094.0,True,28.2
+Djibouti,Djibouti,Africa,Eastern Africa,11.5,43.0,988002,23200.0,True,41.6
+Dominica,Roseau,Americas,Caribbean,15.41666666,-61.33333333,71991,751.0,True,
+Dominican Republic,Santo Domingo,Americas,Caribbean,19.0,-70.66666666,10847904,48671.0,True,41.9
+Ecuador,Quito,Americas,South America,-2.0,-77.5,17643060,276841.0,True,45.7
+Egypt,Cairo,Africa,Northern Africa,27.0,30.0,102334403,1002450.0,True,31.5
+El Salvador,San Salvador,Americas,Central America,13.83333333,-88.91666666,6486201,21041.0,True,38.8
+Equatorial Guinea,Malabo,Africa,Middle Africa,2.0,10.0,1402985,28051.0,True,
+Eritrea,Asmara,Africa,Eastern Africa,15.0,39.0,5352000,117600.0,True,
+Estonia,Tallinn,Europe,Northern Europe,59.0,26.0,1331057,45227.0,True,30.3
+Ethiopia,Addis Ababa,Africa,Eastern Africa,8.0,38.0,114963583,1104300.0,True,35.0
+Falkland Islands (Malvinas),Stanley,Americas,South America,-51.75,-59.0,2563,12173.0,False,
+Faroe Islands,Tórshavn,Europe,Northern Europe,62.0,-7.0,48865,1393.0,False,
+Fiji,Suva,Oceania,Melanesia,-18.0,175.0,896444,18272.0,True,36.7
+Finland,Helsinki,Europe,Northern Europe,64.0,26.0,5530719,338424.0,True,27.3
+France,Paris,Europe,Western Europe,46.0,2.0,67391582,640679.0,True,32.4
+French Guiana,Cayenne,Americas,South America,4.0,-53.0,254541,,False,
+French Polynesia,Papeetē,Oceania,Polynesia,-15.0,-140.0,280904,4167.0,False,
+French Southern Territories,Port-aux-Français,Africa,Southern Africa,-49.25,69.167,140,7747.0,False,
+Gabon,Libreville,Africa,Middle Africa,-1.0,11.75,2225728,267668.0,True,38.0
+Gambia,Banjul,Africa,Western Africa,13.46666666,-16.56666666,2416664,11295.0,True,35.9
+Georgia,Tbilisi,Asia,Western Asia,42.0,43.5,3714000,69700.0,True,35.9
+Germany,Berlin,Europe,Central Europe,51.0,9.0,83240525,357114.0,True,31.9
+Ghana,Accra,Africa,Western Africa,8.0,-2.0,31072945,238533.0,True,43.5
+Gibraltar,Gibraltar,Europe,Southern Europe,36.13333333,-5.35,33691,6.0,False,
+Greece,Athens,Europe,Southern Europe,39.0,22.0,10715549,131990.0,True,32.9
+Greenland,Nuuk,Americas,Northern America,72.0,-40.0,56367,2166086.0,False,
+Grenada,St. George's,Americas,Caribbean,12.11666666,-61.66666666,112519,344.0,True,
+Guadeloupe,Basse-Terre,Americas,Caribbean,16.25,-61.583333,400132,,False,
+Guam,Hagåtña,Oceania,Micronesia,13.46666666,144.78333333,168783,549.0,False,
+Guatemala,Guatemala City,Americas,Central America,15.5,-90.25,16858333,108889.0,True,48.3
+Guernsey,St. Peter Port,Europe,Northern Europe,49.46666666,-2.58333333,62999,78.0,False,
+Guinea,Conakry,Africa,Western Africa,11.0,-10.0,13132792,245857.0,True,33.7
+Guinea-Bissau,Bissau,Africa,Western Africa,12.0,-15.0,1967998,36125.0,True,50.7
+Guyana,Georgetown,Americas,South America,5.0,-59.0,786559,214969.0,True,45.1
+Haiti,Port-au-Prince,Americas,Caribbean,19.0,-72.41666666,11402533,27750.0,True,41.1
+Heard Island and McDonald Islands,,Antarctic,Antarctic,-53.1,72.51666666,0,412.0,False,
+Vatican City,Vatican City,Europe,Southern Europe,41.9,12.45,451,0.44,True,
+Honduras,Tegucigalpa,Americas,Central America,15.0,-86.5,9904608,112492.0,True,48.2
+Hungary,Budapest,Europe,Central Europe,47.0,20.0,9749763,93028.0,True,29.6
+Hong Kong,City of Victoria,Asia,Eastern Asia,22.25,114.16666666,7481800,1104.0,False,
+Iceland,Reykjavík,Europe,Northern Europe,65.0,-18.0,366425,103000.0,True,26.1
+India,New Delhi,Asia,Southern Asia,20.0,77.0,1380004385,3287590.0,True,35.7
+Indonesia,Jakarta,Asia,South-Eastern Asia,-5.0,120.0,273523621,1904569.0,True,38.2
+Ivory Coast,Yamoussoukro,Africa,Western Africa,8.0,-5.0,26378275,322463.0,True,41.5
+Iran (Islamic Republic of),Tehran,Asia,Southern Asia,32.0,53.0,83992953,1648195.0,True,42.0
+Iraq,Baghdad,Asia,Western Asia,33.0,44.0,40222503,438317.0,True,29.5
+Ireland,Dublin,Europe,Northern Europe,53.0,-8.0,4994724,70273.0,True,31.4
+Isle of Man,Douglas,Europe,Northern Europe,54.25,-4.5,85032,572.0,False,
+Israel,Jerusalem,Asia,Western Asia,31.5,34.75,9216900,20770.0,True,39.0
+Italy,Rome,Europe,Southern Europe,42.83333333,12.83333333,59554023,301336.0,True,35.9
+Jamaica,Kingston,Americas,Caribbean,18.25,-77.5,2961161,10991.0,True,45.5
+Japan,Tokyo,Asia,Eastern Asia,36.0,138.0,125836021,377930.0,True,32.9
+Jersey,Saint Helier,Europe,Northern Europe,49.25,-2.16666666,100800,116.0,False,
+Jordan,Amman,Asia,Western Asia,31.0,36.0,10203140,89342.0,True,33.7
+Kazakhstan,Nur-Sultan,Asia,Central Asia,48.0,68.0,18754440,2724900.0,True,27.8
+Kenya,Nairobi,Africa,Eastern Africa,1.0,38.0,53771300,580367.0,True,40.8
+Kiribati,South Tarawa,Oceania,Micronesia,1.41666666,173.0,119446,811.0,True,37.0
+Kuwait,Kuwait City,Asia,Western Asia,29.5,45.75,4270563,17818.0,True,
+Kyrgyzstan,Bishkek,Asia,Central Asia,41.0,75.0,6591600,199951.0,True,29.7
+Lao People's Democratic Republic,Vientiane,Asia,South-Eastern Asia,18.0,105.0,7275556,236800.0,True,38.8
+Latvia,Riga,Europe,Northern Europe,57.0,25.0,1901548,64559.0,True,35.1
+Lebanon,Beirut,Asia,Western Asia,33.83333333,35.83333333,6825442,10452.0,True,31.8
+Lesotho,Maseru,Africa,Southern Africa,-29.5,28.5,2142252,30355.0,True,44.9
+Liberia,Monrovia,Africa,Western Africa,6.5,-9.5,5057677,111369.0,True,35.3
+Libya,Tripoli,Africa,Northern Africa,25.0,17.0,6871287,1759540.0,True,
+Liechtenstein,Vaduz,Europe,Central Europe,47.26666666,9.53333333,38137,160.0,True,
+Lithuania,Vilnius,Europe,Northern Europe,56.0,24.0,2794700,65300.0,True,35.7
+Luxembourg,Luxembourg,Europe,Western Europe,49.75,6.16666666,632275,2586.0,True,35.4
+Macao,,Asia,Eastern Asia,22.16666666,113.55,649342,30.0,False,
+North Macedonia,Skopje,Europe,Southern Europe,41.83333333,22.0,2083380,25713.0,True,33.0
+Madagascar,Antananarivo,Africa,Eastern Africa,-20.0,47.0,27691019,587041.0,True,42.6
+Malawi,Lilongwe,Africa,Eastern Africa,-13.5,34.0,19129955,118484.0,True,44.7
+Malaysia,Kuala Lumpur,Asia,South-Eastern Asia,2.5,112.5,32365998,330803.0,True,41.1
+Maldives,Malé,Asia,Southern Asia,3.25,73.0,540542,300.0,True,31.3
+Mali,Bamako,Africa,Western Africa,17.0,-4.0,20250834,1240192.0,True,33.0
+Malta,Valletta,Europe,Southern Europe,35.83333333,14.58333333,525285,316.0,True,28.7
+Marshall Islands,Majuro,Oceania,Micronesia,9.0,168.0,59194,181.0,True,
+Martinique,Fort-de-France,Americas,Caribbean,14.666667,-61.0,378243,,False,
+Mauritania,Nouakchott,Africa,Western Africa,20.0,-12.0,4649660,1030700.0,True,32.6
+Mauritius,Port Louis,Africa,Eastern Africa,-20.28333333,57.55,1265740,2040.0,True,36.8
+Mayotte,Mamoudzou,Africa,Eastern Africa,-12.83333333,45.16666666,226915,,False,
+Mexico,Mexico City,Americas,North America,23.0,-102.0,128932753,1964375.0,True,45.4
+Micronesia (Federated States of),Palikir,Oceania,Micronesia,6.91666666,158.25,115021,702.0,True,40.1
+Moldova (Republic of),Chișinău,Europe,Eastern Europe,47.0,29.0,2617820,33846.0,True,25.7
+Monaco,Monaco,Europe,Western Europe,43.73333333,7.4,39244,2.02,True,
+Mongolia,Ulan Bator,Asia,Eastern Asia,46.0,105.0,3278292,1564110.0,True,32.7
+Montenegro,Podgorica,Europe,Southern Europe,42.5,19.3,621718,13812.0,True,38.5
+Montserrat,Plymouth,Americas,Caribbean,16.75,-62.2,4922,102.0,False,
+Morocco,Rabat,Africa,Northern Africa,32.0,-5.0,36910558,446550.0,True,39.5
+Mozambique,Maputo,Africa,Eastern Africa,-18.25,35.0,31255435,801590.0,True,54.0
+Myanmar,Naypyidaw,Asia,South-Eastern Asia,22.0,98.0,54409794,676578.0,True,30.7
+Namibia,Windhoek,Africa,Southern Africa,-22.0,17.0,2540916,825615.0,True,59.1
+Nauru,Yaren,Oceania,Micronesia,-0.53333333,166.91666666,10834,21.0,True,34.8
+Nepal,Kathmandu,Asia,Southern Asia,28.0,84.0,29136808,147181.0,True,32.8
+Netherlands,Amsterdam,Europe,Western Europe,52.5,5.75,17441139,41850.0,True,28.1
+New Caledonia,Nouméa,Oceania,Melanesia,-21.5,165.5,271960,18575.0,False,
+New Zealand,Wellington,Oceania,Australia and New Zealand,-41.0,174.0,5084300,270467.0,True,
+Nicaragua,Managua,Americas,Central America,13.0,-85.0,6624554,130373.0,True,46.2
+Niger,Niamey,Africa,Western Africa,16.0,8.0,24206636,1267000.0,True,34.3
+Nigeria,Abuja,Africa,Western Africa,10.0,8.0,206139587,923768.0,True,35.1
+Niue,Alofi,Oceania,Polynesia,-19.03333333,-169.86666666,1470,260.0,True,
+Norfolk Island,Kingston,Oceania,Australia and New Zealand,-29.03333333,167.95,2302,36.0,False,
+Korea (Democratic People's Republic of),Pyongyang,Asia,Eastern Asia,40.0,127.0,25778815,120538.0,True,
+Northern Mariana Islands,Saipan,Oceania,Micronesia,15.2,145.75,57557,464.0,False,
+Norway,Oslo,Europe,Northern Europe,62.0,10.0,5379475,323802.0,True,27.6
+Oman,Muscat,Asia,Western Asia,21.0,57.0,5106622,309500.0,True,
+Pakistan,Islamabad,Asia,Southern Asia,30.0,70.0,220892331,881912.0,True,31.6
+Palau,Ngerulmud,Oceania,Micronesia,7.5,134.5,18092,459.0,True,
+"Palestine, State of",Ramallah,Asia,Western Asia,31.9,35.2,4803269,,True,33.7
+Panama,Panama City,Americas,Central America,9.0,-80.0,4314768,75417.0,True,49.8
+Papua New Guinea,Port Moresby,Oceania,Melanesia,-6.0,147.0,8947027,462840.0,True,41.9
+Paraguay,Asunción,Americas,South America,-23.0,-58.0,7132530,406752.0,True,45.7
+Peru,Lima,Americas,South America,-10.0,-76.0,32971846,1285216.0,True,41.5
+Philippines,Manila,Asia,South-Eastern Asia,13.0,122.0,109581085,342353.0,True,42.3
+Pitcairn,Adamstown,Oceania,Polynesia,-25.06666666,-130.1,56,47.0,True,
+Poland,Warsaw,Europe,Central Europe,52.0,20.0,37950802,312679.0,True,30.2
+Portugal,Lisbon,Europe,Southern Europe,39.5,-8.0,10305564,92090.0,True,33.5
+Puerto Rico,San Juan,Americas,Caribbean,18.25,-66.5,3194034,8870.0,False,
+Qatar,Doha,Asia,Western Asia,25.5,51.25,2881060,11586.0,True,
+Republic of Kosovo,Pristina,Europe,Eastern Europe,42.666667,21.166667,1775378,10908.0,True,29.0
+Réunion,Saint-Denis,Africa,Eastern Africa,-21.15,55.5,840974,,False,
+Romania,Bucharest,Europe,Eastern Europe,46.0,25.0,19286123,238391.0,True,35.8
+Russian Federation,Moscow,Europe,Eastern Europe,60.0,100.0,144104080,17124442.0,True,37.5
+Rwanda,Kigali,Africa,Eastern Africa,-2.0,30.0,12952209,26338.0,True,43.7
+Saint Barthélemy,Gustavia,Americas,Caribbean,18.5,-63.41666666,9417,21.0,False,
+"Saint Helena, Ascension and Tristan da Cunha",Jamestown,Africa,Western Africa,-15.95,-5.7,4255,,False,
+Saint Kitts and Nevis,Basseterre,Americas,Caribbean,17.33333333,-62.75,53192,261.0,True,
+Saint Lucia,Castries,Americas,Caribbean,13.88333333,-60.96666666,183629,616.0,True,51.2
+Saint Martin (French part),Marigot,Americas,Caribbean,18.08333333,-63.95,38659,53.0,False,
+Saint Pierre and Miquelon,Saint-Pierre,Americas,Northern America,46.83333333,-56.33333333,6069,242.0,False,
+Saint Vincent and the Grenadines,Kingstown,Americas,Caribbean,13.25,-61.2,110947,389.0,True,
+Samoa,Apia,Oceania,Polynesia,-13.58333333,-172.33333333,198410,2842.0,True,38.7
+San Marino,City of San Marino,Europe,Southern Europe,43.76666666,12.41666666,33938,61.0,True,
+Sao Tome and Principe,São Tomé,Africa,Middle Africa,1.0,7.0,219161,964.0,True,56.3
+Saudi Arabia,Riyadh,Asia,Western Asia,25.0,45.0,34813867,2149690.0,True,
+Senegal,Dakar,Africa,Western Africa,14.0,-14.0,16743930,196722.0,True,40.3
+Serbia,Belgrade,Europe,Southern Europe,44.0,21.0,6908224,88361.0,True,36.2
+Seychelles,Victoria,Africa,Eastern Africa,-4.58333333,55.66666666,98462,452.0,True,32.1
+Sierra Leone,Freetown,Africa,Western Africa,8.5,-11.5,7976985,71740.0,True,35.7
+Singapore,Singapore,Asia,South-Eastern Asia,1.36666666,103.8,5685807,710.0,True,
+Sint Maarten (Dutch part),Philipsburg,Americas,Caribbean,18.033333,-63.05,40812,34.0,False,
+Slovakia,Bratislava,Europe,Central Europe,48.66666666,19.5,5458827,49037.0,True,25.0
+Slovenia,Ljubljana,Europe,Southern Europe,46.11666666,14.81666666,2100126,20273.0,True,24.6
+Solomon Islands,Honiara,Oceania,Melanesia,-8.0,159.0,686878,28896.0,True,37.1
+Somalia,Mogadishu,Africa,Eastern Africa,10.0,49.0,15893219,637657.0,True,36.8
+South Africa,Pretoria,Africa,Southern Africa,-29.0,24.0,59308690,1221037.0,True,63.0
+South Georgia and the South Sandwich Islands,King Edward Point,Americas,South America,-54.5,-37.0,30,,False,
+Korea (Republic of),Seoul,Asia,Eastern Asia,37.0,127.5,51780579,100210.0,True,31.4
+Spain,Madrid,Europe,Southern Europe,40.0,-4.0,47351567,505992.0,True,34.7
+Sri Lanka,Sri Jayawardenepura Kotte,Asia,Southern Asia,7.0,81.0,21919000,65610.0,True,39.3
+Sudan,Khartoum,Africa,Northern Africa,15.0,30.0,43849269,1886068.0,True,34.2
+South Sudan,Juba,Africa,Middle Africa,7.0,30.0,11193729,619745.0,True,44.1
+Suriname,Paramaribo,Americas,South America,4.0,-56.0,586634,163820.0,True,57.9
+Svalbard and Jan Mayen,Longyearbyen,Europe,Northern Europe,78.0,20.0,2562,,False,
+Swaziland,Mbabane,Africa,Southern Africa,-26.5,31.5,1160164,17364.0,True,54.6
+Sweden,Stockholm,Europe,Northern Europe,62.0,15.0,10353442,450295.0,True,30.0
+Switzerland,Bern,Europe,Central Europe,47.0,8.0,8636896,41284.0,True,33.1
+Syrian Arab Republic,Damascus,Asia,Western Asia,35.0,38.0,17500657,185180.0,True,37.5
+Taiwan,Taipei,Asia,Eastern Asia,23.5,121.0,23503349,36193.0,True,
+Tajikistan,Dushanbe,Asia,Central Asia,39.0,71.0,9537642,143100.0,True,34.0
+"Tanzania, United Republic of",Dodoma,Africa,Eastern Africa,-6.0,35.0,59734213,945087.0,True,40.5
+Thailand,Bangkok,Asia,South-Eastern Asia,15.0,100.0,69799978,513120.0,True,34.9
+Timor-Leste,Dili,Asia,South-Eastern Asia,-8.83333333,125.91666666,1318442,14874.0,True,28.7
+Togo,Lomé,Africa,Western Africa,8.0,1.16666666,8278737,56785.0,True,43.1
+Tokelau,Fakaofo,Oceania,Polynesia,-9.0,-172.0,1411,12.0,False,
+Tonga,Nuku'alofa,Oceania,Polynesia,-20.0,-175.0,105697,747.0,True,37.6
+Trinidad and Tobago,Port of Spain,Americas,Caribbean,11.0,-61.0,1399491,5130.0,True,40.3
+Tunisia,Tunis,Africa,Northern Africa,34.0,9.0,11818618,163610.0,True,32.8
+Turkey,Ankara,Asia,Western Asia,39.0,35.0,84339067,783562.0,True,41.9
+Turkmenistan,Ashgabat,Asia,Central Asia,40.0,60.0,6031187,488100.0,True,40.8
+Turks and Caicos Islands,Cockburn Town,Americas,Caribbean,21.75,-71.58333333,38718,948.0,False,
+Tuvalu,Funafuti,Oceania,Polynesia,-8.0,178.0,11792,26.0,True,39.1
+Uganda,Kampala,Africa,Eastern Africa,1.0,32.0,45741000,241550.0,True,42.8
+Ukraine,Kyiv,Europe,Eastern Europe,49.0,32.0,44134693,603700.0,True,26.6
+United Arab Emirates,Abu Dhabi,Asia,Western Asia,24.0,54.0,9890400,83600.0,True,26.0
+United Kingdom of Great Britain and Northern Ireland,London,Europe,Northern Europe,54.0,-2.0,67215293,242900.0,True,35.1
+United States of America,"Washington, D.C.",Americas,Northern America,38.0,-97.0,329484123,9629091.0,True,41.4
+Uruguay,Montevideo,Americas,South America,-33.0,-56.0,3473727,181034.0,True,39.7
+Uzbekistan,Tashkent,Asia,Central Asia,41.0,64.0,34232050,447400.0,False,35.3
+Vanuatu,Port Vila,Oceania,Melanesia,-16.0,167.0,307150,12189.0,True,37.6
+Venezuela (Bolivarian Republic of),Caracas,Americas,South America,8.0,-66.0,28435943,916445.0,True,44.8
+Vietnam,Hanoi,Asia,South-Eastern Asia,16.16666666,107.83333333,97338583,331212.0,True,35.7
+Wallis and Futuna,Mata-Utu,Oceania,Polynesia,-13.3,-176.2,11750,142.0,False,
+Western Sahara,El Aaiún,Africa,Northern Africa,24.5,-13.0,510713,266000.0,False,
+Yemen,Sana'a,Asia,Western Asia,15.0,48.0,29825968,527968.0,True,36.7
+Zambia,Lusaka,Africa,Eastern Africa,-15.0,30.0,18383956,752618.0,True,57.1
+Zimbabwe,Harare,Africa,Southern Africa,-20.0,30.0,14862927,390757.0,True,50.3
