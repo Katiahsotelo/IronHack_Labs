@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
+# Hangman Game
 *[Katia Hernández]*
 
 *[DA FT, México & 31 de agosto 2022]*
